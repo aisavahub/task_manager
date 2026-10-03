@@ -1,4 +1,4 @@
-https://aisava-task-manager.netlify.app
+
 
 # Task Manager
 
@@ -7,7 +7,7 @@ A responsive, persistent task management app built with vanilla JavaScript — c
 **Live demo:** [https://aisava-task-manager.netlify.app]
 
 ![screenshot](./TASK MANAGER.png)
-<!-- Replace with an actual screenshot or GIF of the app once deployed -->
+
 
 ## What it does
 
@@ -28,11 +28,6 @@ A responsive, persistent task management app built with vanilla JavaScript — c
 - Edit-in-place UI pattern (tracking which item is actively being edited)
 - Responsive design (mobile, tablet, desktop layouts)
 
-## How to Run Locally
-
-1. Clone this repo: `git clone [your-repo-url]`
-2. Open `index.html` in your browser, or serve it with a local server
-3. No build step, no dependencies
 
 ## What I'd Improve Next
 
