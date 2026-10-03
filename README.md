@@ -6,9 +6,6 @@ A responsive, persistent task management app built with vanilla JavaScript — c
 
 **Live demo:** [https://aisava-task-manager.netlify.app]
 
-![screenshot](./TASK MANAGER.png)
-
-
 ## What it does
 
 - Add tasks with a title, category, due date, and priority
